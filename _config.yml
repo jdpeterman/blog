@@ -1,10 +1,11 @@
 
 title: Jake's Thoughts
 email: peterjbg@uni.edu
-description: This is my blog where I will share my thoughts. A few things I'm passionate about: technology, sports, politics.
+description: "This is my blog where I will share my thoughts. A few things I'm passionate about: technology, sports, politics."
 baseurl: "/blog"
 url: "jdpeterman.github.io"
 github_username:  jdpeterman
+
 
 # Build settings
 markdown: kramdown
