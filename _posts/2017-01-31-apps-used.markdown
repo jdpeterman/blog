@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Top 5 Most Used Apps"
+date:   2017-01-29
+categories: technology
+---
+
+<p>1. <strong>Reddit is fun</strong> <img src="/blog/assets/rif.png" alt="Reddit is fun" style="width: 75px;"/></p>
+<p>There are several Reddit apps out there, even an official one, but I think
+this one beats them all. It provides an intuitive UI that feels familiar to
+Reddit users. It also caters to those who have AMOLED screens or just want 
+easier night time reading, as it supports night mode. You can filter content and easily
+navigate between subreddits.</p>
+<a href="https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit&hl=en">Play Store</a><br>
+*Not available on iOS
+<br>
+<br>
+<p>2. <strong>Duolingo</strong> <img src="/blog/assets/duo.png" alt="Duolingo" style="width: 75px;"/></p>
+<p>This is a pretty amazing service if you're ever interested in learning a foreign language. I've
+been learning German on there for about two years now and I'm about halfway through the program. If
+you dedicate a lot of time to it, you can finish a program in several months. However, if you're serious 
+about learning a new language, I suggest complimenting <a href="https://www.duolingo.com/">Duolingo</a>
+with <a href="http://www.memrise.com/">Memrise</a> or another language learning service.</p>
+<a href="https://play.google.com/store/apps/details?id=com.duolingo&hl=en">Play Store</a><br>
+<a href="https://itunes.apple.com/us/app/duolingo-learn-languages-for/id570060128?mt=8&ign-mpt=uo%3D2">iOS</a>
+<br>
+<br>
+<p>3. <strong>Todoist</strong> <img src="/blog/assets/todoist.png" alt="Todoist" style="width: 75px;"/></p>
+<p>Next up on the list is the productivity app, <a href="https://en.todoist.com/">Todoist.</a> I like to 
+create a list of daily tasks that I need to accomplish, such as homework, projects, or even laundry. The good
+thing about Todoist is that it's developed for nearly every platform, except Linux :frowning:. Another nice feature is
+its integration with Alexa. I have an Echo Dot and it's always convenient to tell Alexa to add something to
+my list. This short description didn't do enough justice for it, so I suggest checking out their website
+to see all the features they have.</p>
+<a href="https://play.google.com/store/apps/details?id=com.todoist&hl=en">Play Store</a><br>
+<a href="https://itunes.apple.com/us/app/todoist-to-do-list-task-list/id585829637?mt=12&ign-mpt=uo%3D2">iOS</a>
+<br>
+<br>
+<p>4. <strong>Yahoo Sports</strong> <img src="/blog/assets/yahoo.png" alt="Yahoo Sports" style="width: 75px;"/></p>
+<p>There's a lot of sports apps out there, and I've tried quite a few, but I think this one edges out the rest.
+Yahoo recently rebraned their sports app with a beautiful modern material design interface. You can follow your
+favorite teams and it will keep you up to date with news, scores, and highlights. The app comes with
+many customizable notifications, such as alerts to game starts or close game situations.</p>
+<a href="https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.sportacular&hl=en">Play Store</a><br>
+<a href="https://itunes.apple.com/us/app/yahoo-sports-your-teams-your/id286058814?mt=8">iOS</a>
+<br>
+<br>
+<p>5. <strong>Hacker News Materialistic</strong> <img src="/blog/assets/hn.png" alt="Hacker News" style="width: 75px;"/></p>
+<p>This app will probably appeal more to the tech crowd. If you don't know what Hacker News is, it's basically a social
+community that discusses topics of computer science and other things trending in technology. They have a 
+<a href="https://news.ycombinator.com/">website </a>but I rarely visit it. I just access everything through this
+ app. It's probably one of the most well-designed apps I've ever used. It makes good use of Google's material design.
+To add on to that, it's ad-free and open source. There's not much else you could ask for.</p>
+<a href="https://play.google.com/store/apps/details?id=io.github.hidroh.materialistic&hl=en">Play Store</a><br>
+*Not available on iOS
